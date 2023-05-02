@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140613926174",
+    "project_id": "signin-de8b8",
+    "storage_bucket": "signin-de8b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140613926174:android:a2e6f5fa9e60be49da5d0f",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140613926174-575m68ukshtqk37o0pm4uoakr7mgsfgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwcBiqbzJUJ1ETvqxSHXDdBQJ_y8EFx_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140613926174-575m68ukshtqk37o0pm4uoakr7mgsfgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
